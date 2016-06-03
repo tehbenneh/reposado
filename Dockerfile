@@ -1,4 +1,4 @@
-FROM dtank/core:latest
+FROM ubuntu:latest
 
 MAINTAINER benharker@mac.com
 RUN git clone https://github.com/wdas/reposado.git /reposado
